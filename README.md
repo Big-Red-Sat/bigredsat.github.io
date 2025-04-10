@@ -24,6 +24,8 @@ Our Small Satellite Conference 2024 paper, which goes into detail on the technic
 
 We presented a webinar to NASA's Small Satellite Community of Practice, which can be found in full [here](https://www.nasa.gov/smallsat-institute/community-of-practice/big-red-sat-1-nebraskas-first-cubesat-experience-and-lessons-learned-for-our-middle-school-to-graduate-school-team/).
 
+We were featured 29 March 2025 on Nebraska Public Media's "What If..." series, see the full video [here](https://www.youtube.com/watch?si=YQwcxLcnTA7SSb4R&v=If0781LjPGU&feature=youtu.be&themeRefresh=1).
+
 ## Media
 
 [April 21, 2021 - NASA selects Nebraska students’ satellite to orbit in space](https://news.unl.edu/newsrooms/today/article/nasa-selects-nebraska-students-satellite-to-orbit-in-space/)
